@@ -1,0 +1,31 @@
+Book My show Requirements
+
+Users/Actors and their sequence of events:
+
+Customer – 
+1.	Select location
+2.	Search for movie/event
+3.	Select preferred time slot/seats etc.
+4.	Book tickets 
+5.	Cancel Booking
+6.	Pre-order meal
+7.	Pay for the booking
+8.	View booking
+9.	Give rating after the event
+
+Movie Theatre/ Event Admin– 
+1.	Post movie/event details/ticket price
+2.	Cancel show/event
+3.	Update show details/ availability
+
+System – 
+1.	Update ticket availability real-time
+2.	Generate Booking Id/QR 
+3.	Share booking id through mail/text etc.
+4.	Accept payment 
+5.	Notify about event updates/ cancellations
+6.	Maintain Movie/Event Ratings
+
+Common Modules –
+1.	Login
+2.	Notification
