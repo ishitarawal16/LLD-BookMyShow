@@ -1,13 +1,14 @@
 Design Patterns in BookMyShow
 
 1)Factory Design Pattern
-	-EventType: Movie, Event
-  -MovieGenre: Comedy, Thriller, Action, Bollywood, Hollywood etc.
+	-ShowType: Movie, Event
+  	-MovieGenre: Comedy, Thriller, Action, Bollywood, Hollywood etc.
+	-EventType: Concert, Comedy, Food Festival, Dance Shows etc.
 
 2)Singleton Design Pattern
 	-DB 
-  -Logger
-  -Configuration Manager
+  	-Logger
+  	-Configuration Manager
 	
 3)Oberver Design Pattern
 	-Notification for Ticket Booking/Cancellation
@@ -20,5 +21,5 @@ Design Patterns in BookMyShow
 
 4)Strategy Design Pattern
 	-Payment - Online, COD
-  -Pricing Strategy - Different pricing strategy for different types of tickets[VIP, Regular, Time of Show].
+  	-Pricing Strategy - Different pricing strategy for different types of tickets[VIP, Regular, Time of Show].
 	-Update Feed based on user input (location, language genre etc)
